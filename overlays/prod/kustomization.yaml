@@ -3,4 +3,4 @@ resources:
 namespace: prod
 replicas:
   - name: web
-    count: 4
+    count: 5
