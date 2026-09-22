@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: web
-          image: nginx:1.27
+          image: ghcr.io/aathisayavalan/devops-app:1.0.0
           ports:
             - containerPort: 80
