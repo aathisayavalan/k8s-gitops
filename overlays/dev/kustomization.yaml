@@ -1,5 +1,6 @@
 resources:
   - ../../base
+  - ghcr-pull-sealed.yaml
 namespace: dev
 replicas:
   - name: web
